@@ -1,5 +1,33 @@
 ## Hi there 👋
+I'm Veera Raghavan, Computer Science undergraduate at SRM Institute of Science and Technology.
 
+I am focused on building a strong foundation in software development and problem-solving.
+My interests lie in understanding how systems work and applying that knowledge to create reliable and meaningful solutions.
+
+I approach learning with consistency and intent, aiming to improve step by step.
+
+**Current Focus**
+
+- Strengthening core programming concepts
+- Practicing problem-solving and logical thinking
+- Building projects to apply theoretical knowledge
+
+**Technical Skills**
+
+Languages
+C, C++, Python, Java (Beginner)
+
+Tools & Platforms
+Git, GitHub, Visual Studio Code, Vercel
+
+**Contact**
+
+**LinkedIn:** https://www.linkedin.com/in/veeraraghavanofficial/
+**Email:** veeraraghavan.manage@gmail.com
+
+**Note**
+
+Focused on long-term growth through consistent learning and disciplined execution.
 <!--
 **veera-raghavann/veera-raghavann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
