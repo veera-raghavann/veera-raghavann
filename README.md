@@ -1,10 +1,12 @@
 ## Hi there 👋
-I'm Veera Raghavan, Computer Science undergraduate at SRM Institute of Science and Technology.
+I'm [Veera Raghavan](https://www.linkedin.com/in/veeraraghavanofficial/),
+Computer Science undergraduate at SRM Institute of Science and Technology.
 
-I am focused on building a strong foundation in software development and problem-solving.
+---
+Focused on building a strong foundation in software development and problem-solving.
 My interests lie in understanding how systems work and applying that knowledge to create reliable and meaningful solutions.
 
-I approach learning with consistency and intent, aiming to improve step by step.
+I approach learning with consistency and intent, aiming to improve step by step.  
 
 **Current Focus**
 
@@ -14,15 +16,15 @@ I approach learning with consistency and intent, aiming to improve step by step.
 
 **Technical Skills**
 
-Languages
-C, C++, Python, Java (Beginner)
+**Languages**
+C, C++, Python, Java (Beginner), HTML, CSS
 
-Tools & Platforms
+**Tools & Platforms**  
 Git, GitHub, Visual Studio Code, Vercel
 
 **Contact**
 
-**LinkedIn:** https://www.linkedin.com/in/veeraraghavanofficial/
+**LinkedIn:** [**veeraraghavanofficial**](https://www.linkedin.com/in/veeraraghavanofficial/)  
 **Email:** veeraraghavan.manage@gmail.com
 
 **Note**
