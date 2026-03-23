@@ -25,7 +25,7 @@ Git, GitHub, Visual Studio Code, Vercel
 **Contact**
 
 **LinkedIn:** [**veeraraghavanofficial**](https://www.linkedin.com/in/veeraraghavanofficial/)  
-**Email:** veeraraghavan.manage@gmail.com
+**Email:** veera@veeraraghavanofficial.com
 
 **Note**
 
