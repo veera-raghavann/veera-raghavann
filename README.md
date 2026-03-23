@@ -16,7 +16,7 @@ I approach learning with consistency and intent, aiming to improve step by step.
 
 **Technical Skills**
 
-**Languages**
+**Languages**  
 C, C++, Python, Java (Beginner), HTML, CSS
 
 **Tools & Platforms**  
